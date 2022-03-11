@@ -1,3 +1,4 @@
+# **Author: Sean Chung**
 # **Robot-Simulator** #
 Display _robots_ that are created through UDP request-response cycles and threads.
 - Made-by: Sean Chung ([seanchung2001](http://www.github.com/seanchung2001))
